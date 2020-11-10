@@ -1,7 +1,7 @@
 <div id="container">
   <article id="card">
     <header>
-      <img id="nikeLogo" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/nike-512.png" alt="">
+      <img id="nikeLogo" src="https://miro.medium.com/max/900/0*9hcinRdaHicrNpNE.jpg" alt="">
       <span id="nike" class="subhead">Nike</span>
     </header>
     <img id="shoe" src="https://dks.scene7.com/is/image/GolfGalaxy/19NIKMRMX270BLKPNMNS_Black_White_Solar_Red?qlt=70&wid=600&fmt=pjpeg" alt="">
@@ -10,7 +10,7 @@
         <span id="retail" class="subhead">Retail</span> <span id="time" class="faded">2d ago</span>
       </div>
       <div id="location">
-        <img src="https://image.flaticon.com/icons/png/512/67/67872.png">
+        <img src="https://image.flaticon.com/icons/png/512/67/67872.png" alt="">
         <span class="faded">North America</span>
       </div>
       <div id="tags">
@@ -22,7 +22,8 @@
     </section>
     <footer>
       <p>Description</p>
-      <p class="faded">Nike created a widegt for their new website to promote the latest footwear releases...</p>
+      <p class="faded">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, rerum! Commodi minus consequuntur excepturi expedita architecto voluptatibus dicta perferendis voluptate itaque iste dolores provident voluptates vero, perspiciatis consequatur error pariatur...</p>
     </footer>
   </article>
 </div>
+
